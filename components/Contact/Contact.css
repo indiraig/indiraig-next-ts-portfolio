@@ -1,0 +1,26 @@
+.contact__intro {
+  margin-bottom: 1rem;
+}
+
+.contact-card {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  align-items: center;
+}
+
+.contact-card__email {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.contact-card__actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.contact-card__socials {
+  display: flex;
+  gap: 0.5rem;
+}

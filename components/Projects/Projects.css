@@ -1,0 +1,28 @@
+.projects__intro {
+  margin-bottom: 1rem;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.project-card__title {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.project-card__desc {
+  color: var(--muted);
+}
+
+.project-card__chips {
+  margin-top: 0.25rem;
+}
+
+.project-card__actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
