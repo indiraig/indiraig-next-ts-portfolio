@@ -2,7 +2,7 @@ import './globals.css';
 
 export const metadata = {
   title: 'Indira Gandhi | Engineer',
-  description: 'FAANG-level frontend portfolio',
+  description: 'Next.js portfolio',
 };
 
 export default function RootLayout({

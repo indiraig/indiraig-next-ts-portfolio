@@ -70,7 +70,7 @@ export default function About() {
               <span className="about-tag">Tech Upskilling</span>
               <span className="about-tag">DSA Problem Solving</span>
               <span className="about-tag">CSS Styling</span>
-              <span className="about-tag">Networking with like minded individuals </span>
+              <span className="about-tag">Networking with like-minded individuals </span>
               <span className="about-tag">Food Enthusiast</span>
             </div>
           </div>

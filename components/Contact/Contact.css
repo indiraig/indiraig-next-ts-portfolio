@@ -24,3 +24,20 @@
   display: flex;
   gap: 0.5rem;
 }
+
+@media (max-width: 640px) {
+  .contact-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .contact-card__actions {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .contact-card__socials {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}

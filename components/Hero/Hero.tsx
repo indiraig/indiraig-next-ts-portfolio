@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="section hero">
       <div className="container hero__inner">
         <h1 className="hero__title">
-          <span className="hero__title-gradient">Indira Gandhi ~ Frontend Leaning
+          <span className="hero__title-gradient">Indira Gandhi — Frontend × AI Enthusiast
             </span> 
         </h1>
         <h3 className="hero__titlesub"> <span className="hero__title-gradient_sub">Next.js & React.js
