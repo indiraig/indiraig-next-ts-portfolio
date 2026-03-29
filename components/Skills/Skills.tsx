@@ -25,7 +25,8 @@ export default function Skills() {
           <div className="card skills__group">
             <h3 className="skills__group-title">Backend Architecture</h3>
             <div className="chips">
-              <span className="chip chip--accent">Python</span>
+              <span className="chip chip--accent">SpringBoot</span>
+              <span className="chip">Python</span>
               <span className="chip">Django</span>
               <span className="chip">FastAPI</span>
               <span className="chip">AWS (S3, Lambda, Athena, RDS, Aurora)</span>
@@ -38,6 +39,7 @@ export default function Skills() {
           <div className="card skills__group">
             <h3 className="skills__group-title">AI Engineering Stack</h3>
             <div className="chips">
+              <span className="chip chip--accent">SpringAI</span>
               <span className="chip">TensorFlow</span>
               
               <span className="chip">MCP</span>
@@ -45,8 +47,9 @@ export default function Skills() {
               <span className="chip">Cursor</span>
                 <span className="chip">Trae</span>
                 <span className="chip">LangChain</span>  
+                <span className="chip">Vector DB</span> 
          <span className="chip">Jupyter Notebook</span>
-         <span className="chip">Vector DB</span> 
+
           <span className="chip">Deep Learning</span>
             </div>
           </div>
