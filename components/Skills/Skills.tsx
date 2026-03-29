@@ -25,7 +25,7 @@ export default function Skills() {
           <div className="card skills__group">
             <h3 className="skills__group-title">Backend Architecture</h3>
             <div className="chips">
-              <span className="chip chip--accent">SpringBoot</span>
+              <span className="chip chip--accent">Spring Boot</span>
               <span className="chip">Python</span>
               <span className="chip">Django</span>
               <span className="chip">FastAPI</span>

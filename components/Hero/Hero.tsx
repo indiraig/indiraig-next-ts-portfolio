@@ -8,7 +8,7 @@ export default function Hero() {
           <span className="hero__title-gradient">Indira Gandhi — FullStack × AI Enthusiast
             </span> 
         </h1>
-        <h3 className="hero__titlesub"> <span className="hero__title-gradient_sub">Next.js & React.js | SpringBoot & Spring AI
+        <h3 className="hero__titlesub"> <span className="hero__title-gradient_sub">Next.js & React.js | Spring Boot & Spring AI
             </span> </h3>
         <p className="hero__subtitle muted">
           SDET • Application Development • Wi‑Fi • RDK Stack
